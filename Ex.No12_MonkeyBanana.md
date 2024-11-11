@@ -79,8 +79,6 @@ Step 7: Stop the program.<br>
  )
 ```
 ### Output/Plan:
-
 ![image](https://github.com/user-attachments/assets/233d7e65-f040-410d-aa44-1533179e5261)
-
 ### Result:
 Thus the plan was found for the initial and goal state of given problem.
