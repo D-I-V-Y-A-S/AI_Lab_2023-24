@@ -77,7 +77,10 @@ Step 7: Stop the program.<br>
  )
  (:goal (and (hasbananas)))
  )
+```
 ### Output/Plan:
-![image](https://github.com/user-attachments/assets/56db946c-0aef-437b-bd9e-a7344f4a2236)
+
+![image](https://github.com/user-attachments/assets/233d7e65-f040-410d-aa44-1533179e5261)
+
 ### Result:
 Thus the plan was found for the initial and goal state of given problem.
