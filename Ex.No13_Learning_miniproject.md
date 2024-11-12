@@ -1,4 +1,4 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
+# Ex.No: 13 Learning – Use Supervised Learning  
 ### DATE: 4|11|24                                                                          
 ### REGISTER NUMBER : 212221040043
 ### AIM: 
