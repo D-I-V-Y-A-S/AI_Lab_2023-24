@@ -1,6 +1,6 @@
 # Ex.No: 10 Learning – Use Supervised Learning  
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 4|11|24                                                                          
+### REGISTER NUMBER : 212221040043
 ### AIM: 
 To write a program to train the classifier for Plant Growth Data.
 ###  Algorithm:
