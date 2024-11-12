@@ -4,6 +4,7 @@
 ### AIM: 
 To write a program to train the classifier for Plant Growth Data.
 ###  Algorithm:
+```
  1.Load Data: Load the dataset and split it into features (X) and target 
 (y). 
 2.Train-Test Split: Split the data into training and testing sets. 
@@ -20,7 +21,9 @@ n_estimators,
 8.Evaluate: Predict
  on test data, and evaluate using accuracy, confusion matrix, and 
 classification report.
+```
 ### Program:
+```
 import pandas as pd
  df = pd.read_csv("/content/plant_growth_data.csv")
  df.head()
@@ -50,7 +53,7 @@ n_jobs=-1)
     accuracy = accuracy_score(y_test, y_pred)
     print(f"{name}: Best Params: {grid_search.best_params_}, Accuracy: 
 {accuracy:.4f}")
-
+```
 ### Output:
 ![Screenshot 2024-11-12 211008](https://github.com/user-attachments/assets/22a494ab-f11d-4b0b-960d-fd2850fa5e43)
 ![Screenshot 2024-11-12 211020](https://github.com/user-attachments/assets/69560e5a-3e6b-48f6-b99b-9182f7c71f9f)
