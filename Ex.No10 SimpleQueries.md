@@ -55,8 +55,11 @@ course(X,dept(havefun)).
 ![image](https://github.com/user-attachments/assets/c89017eb-5386-420f-b885-19b5e36c0cfc)
 ### Task 3:
 Consider the statement <br> 
-“This is a crime for an American to sell weapons to hostile nations. The Nano , enemy of America has some missiles and its missiles were sold it by Colonal West who is an American” <br> 
-Convert to Clause form and prove west is criminal by using Prolog.<br> 
+```
+“This is a crime for an American to sell weapons to hostile nations.
+The Nano , enemy of America has some missiles and its missiles were sold it by Colonal West who is an American” <br> 
+Convert to Clause form and prove west is criminal by using Prolog.<br>
+```
 ### Program:
 ```
  criminal(X):
